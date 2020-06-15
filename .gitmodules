@@ -1,0 +1,6 @@
+[submodule "github.com/colourize"]
+	path = github.com/colourize
+	url = https://github.com/TreyBastian/colourize.git
+[submodule "github.com/viper"]
+	path = github.com/viper
+	url = https://github.com/spf13/viper.git
